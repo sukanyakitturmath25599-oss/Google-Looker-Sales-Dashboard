@@ -40,17 +40,14 @@ It enables data-driven decision making by providing clear visual insights into t
 
 ## 📂 Dashboard Access
 👉 View Live Dashboard:  
-*(Paste your Looker Studio public link here)*
+*(https://lookerstudio.google.com/reporting/c050c6c5-0e08-4b9e-939f-b44934b5e8db)*
 
 ---
 
 ## 📷 Dashboard Preview
 *(Upload screenshots in repo and link them here)*
 
-Example:
 
-
----
 
 ## 📊 Metrics Used
 - Total Sales
@@ -82,32 +79,9 @@ Example:
 
 ---
 
-## 📁 Repository Structure
-
-Sales-Dashboard/
-│
-├── README.md
-├── Sales_Dashboard.pdf
-└── images/
-└── dashboard.png
 
 
----
 
-## 👩‍💻 Author
-**Sukanya Kitturmath**
 
----
 
-## ⭐ If you found this useful
-Give this repo a ⭐ and share feedback!
 
-If you want, I can also give you:
-✅ Professional data analyst style README
-✅ Resume project description
-✅ GitHub project description (short)
-✅ Portfolio description
-✅ How to upload dashboard screenshots
-✅ How to make GitHub look professional
-
-Just tell me 👍
