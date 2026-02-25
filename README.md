@@ -35,6 +35,20 @@ It enables data-driven decision making by providing clear visual insights into t
 - **Google Looker Studio** – Data visualization
 - **Data Source** – Sales dataset
 - **Data Modeling** – Calculated metrics & aggregations
+| **CSV / Excel / SQL/Python** | Data source |
+| **Google Sheets / BigQuery (optional)** | Data connection |
+| **GitHub** | Version control & project sharing |
+
+---
+
+## 📥 Data Source
+
+The sales dataset includes:
+- Order IDs
+- Product categories
+- Sales revenue & units
+- Dates
+- Region / location
 
 ---
 
@@ -67,6 +81,10 @@ It enables data-driven decision making by providing clear visual insights into t
 - Detect top selling products
 - Evaluate discount impact on revenue
 - Compare performance across time periods
+-  Revenue peaked in Q4
+-  Product category “X” outperformed all others
+-  Regional sales highest in the South region
+- Trend shifted toward online orders mid‑year
 
 ---
 
