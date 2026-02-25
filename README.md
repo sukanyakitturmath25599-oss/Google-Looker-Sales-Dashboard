@@ -40,13 +40,12 @@ It enables data-driven decision making by providing clear visual insights into t
 
 ## 📂 Dashboard Access
 👉 View Live Dashboard:  
-*(https://lookerstudio.google.com/reporting/c050c6c![Uploading Screenshot 2026-02-25 112705.png…]()
-5-0e08-4b9e-939f-b44934b5e8db)*
+*(https://lookerstudio.google.com/reporting/c050c6c5-0e08-4b9e-939f-b44934b5e8db)*
 
 ---
 
 ## 📷 Dashboard Preview
-*(Upload screenshots in repo and link them here)*
+<img width="757" height="569" alt="Screenshot 2026-02-25 112705" src="https://github.com/user-attachments/assets/ff22ca7a-e0a4-4d76-8b7c-29fd8c9934c9" />
 
 
 
